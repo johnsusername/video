@@ -14,7 +14,7 @@ then you are going to click options
 <p>
   then click embeded
 </p>
-
+<img width="376" height="429" alt="image" src="https://github.com/user-attachments/assets/5a645d9f-698b-401b-ac6e-9b74c647aee5" />
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIBsjYsWzKI?si=F2WAJXrq-_p_XKDV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
