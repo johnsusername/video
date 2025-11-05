@@ -15,6 +15,11 @@ then you are going to click options
   then click embeded
 </p>
 <img width="376" height="429" alt="image" src="https://github.com/user-attachments/assets/5a645d9f-698b-401b-ac6e-9b74c647aee5" />
-
+<p>
+  then copy
+</p>
+<img width="386" height="119" alt="image" src="https://github.com/user-attachments/assets/0084f5eb-bf45-4400-ac8d-2fe4c5e3f489" />
+<p> then paste it in your code</p>
+<img width="1272" height="50" alt="image" src="https://github.com/user-attachments/assets/64ba3102-4946-4772-9a33-ca936d924f0c" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIBsjYsWzKI?si=F2WAJXrq-_p_XKDV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
