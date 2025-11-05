@@ -11,7 +11,9 @@ then you are going to click options
   then click share
 </p>
 <img width="401" height="287" alt="image" src="https://github.com/user-attachments/assets/a1f167d7-573f-4caa-a0bc-702159e539ab" />
-
+<p>
+  then click embeded
+</p>
 
 
 
